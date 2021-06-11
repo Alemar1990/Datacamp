@@ -7,8 +7,7 @@ To get certified by DataCamp, They test my skills in SQL and in Python, through 
 
 :white_check_mark: **Timed assessments** 
 
-
-     *Test your data science skills with six timed 10-minute assessments.*
+     _Test your data science skills with six timed 10-minute assessments._
 
 
 	| ASSESSMENT | SKILL|	
@@ -22,8 +21,8 @@ To get certified by DataCamp, They test my skills in SQL and in Python, through 
 
 :white_check_mark: **Coding challenge**
 
-     *Apply your coding skills to tackle real-world data science problems.*
+     _Apply your coding skills to tackle real-world data science problems._
 
 :black_square_button: **Case study**
 
-     *Analyze a dataset in either R or Python and submit your findings to present to one of our experts.*
+     _Analyze a dataset in Python and submit your findings to present to one of our experts._
